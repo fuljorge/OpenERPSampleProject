@@ -1,0 +1,42 @@
+@import "tailwindcss";
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Inter:wght@400;500;600&display=swap");
+
+/*
+ * Paleta inspirada no site institucional (example.com): emblema dourado sobre fundo
+ * bordô. Cores extraídas por amostragem de pixel do logo real (900 = fundo bordô da página,
+ * 400/600/800 do dourado do medalhão) — não são um chute, refletem a marca de verdade.
+ */
+@theme {
+  --color-wine-50: #fbeeef;
+  --color-wine-100: #f5d6d9;
+  --color-wine-200: #e8a8af;
+  --color-wine-300: #d97882;
+  --color-wine-400: #c24b57;
+  --color-wine-500: #9e2530;
+  --color-wine-600: #7a121c;
+  --color-wine-700: #5c0812;
+  --color-wine-800: #470309;
+  --color-wine-900: #3d0006;
+  --color-wine-950: #2a0004;
+
+  --color-gold-50: #fdf6e9;
+  --color-gold-100: #faeac7;
+  --color-gold-200: #f3d48a;
+  --color-gold-300: #eec066;
+  --color-gold-400: #f1b233;
+  --color-gold-500: #d99a1f;
+  --color-gold-600: #c9891f;
+  --color-gold-700: #a16c17;
+  --color-gold-800: #693f09;
+  --color-gold-900: #4a2b07;
+
+  --color-cream-50: #fdfaf5;
+  --color-cream-100: #faf3e8;
+
+  --font-display: "Playfair Display", ui-serif, Georgia, serif;
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+}
+
+body {
+  font-family: var(--font-sans);
+}

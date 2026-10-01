@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+*.tsbuildinfo
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor / OS
+.DS_Store
+.idea/
+*.swp
+
+# Tests / coverage
+coverage/
+
+# Playwright (E2E)
+e2e/test-results/
+e2e/playwright-report/
+e2e/blob-report/
+
+# Ferramentas locais de banco de dados (ex.: exports/config do MongoDB Compass/Atlas CLI)
+mongodbEnvironments/
+
+# Notas locais de desenvolvedor (podem conter credenciais de dev, ex.: admin seed)
+humandevnotes.md
+
+# Páginas salvas da documentação do Mercado Livre (consulta local; conteúdo de terceiros, ~80 MB)
+DocumentacaoMercadoLivre/

@@ -1,0 +1,45 @@
+{
+  "name": "@openerp-sample/backend",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "API do OpenERP Sample (Fastify + TypeScript + MongoDB)",
+  "scripts": {
+    "dev": "tsx watch src/server.ts",
+    "build": "tsc -p tsconfig.json",
+    "postbuild": "node -e \"const fs=require('fs');fs.mkdirSync('dist/plugins/marketplaces',{recursive:true});fs.copyFileSync('src/plugins/marketplaces/mercado-livre-category-catalog.json','dist/plugins/marketplaces/mercado-livre-category-catalog.json')\"",
+    "start": "node dist/server.js",
+    "lint": "eslint .",
+    "test": "vitest run",
+    "seed:admin": "tsx src/scripts/seed-admin.ts",
+    "seed:categories": "tsx src/scripts/seed-categories.ts",
+    "fetch:mercado-livre-categories": "tsx src/scripts/fetch-mercado-livre-category-catalog.ts"
+  },
+  "dependencies": {
+    "@azure/storage-blob": "^12.24.0",
+    "@fastify/cookie": "^11.0.0",
+    "@fastify/cors": "^10.0.0",
+    "@fastify/multipart": "^9.0.0",
+    "@fastify/rate-limit": "^10.0.0",
+    "@fastify/static": "^10.1.3",
+    "argon2": "^0.41.0",
+    "dotenv": "^16.4.0",
+    "fastify": "^5.0.0",
+    "fastify-plugin": "^6.0.0",
+    "jsonwebtoken": "^9.0.3",
+    "mongodb": "^6.0.0",
+    "openai": "^4.70.0",
+    "zod": "^3.23.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.5",
+    "@types/jsonwebtoken": "^9.0.10",
+    "@types/node": "^22.0.0",
+    "eslint": "^9.0.0",
+    "mongodb-memory-server": "^11.2.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0",
+    "typescript-eslint": "^8.70.0",
+    "vitest": "^2.1.0"
+  }
+}

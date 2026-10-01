@@ -1,0 +1,18 @@
+{
+  "name": "@openerp-sample/e2e",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Testes E2E (Playwright Test) do OpenERP Sample — orquestra backend + frontend juntos.",
+  "scripts": {
+    "test": "playwright test",
+    "test:ui": "playwright test --ui",
+    "test:headed": "playwright test --headed"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^22.0.0",
+    "dotenv": "^16.4.0",
+    "typescript": "^5.6.0"
+  }
+}

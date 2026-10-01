@@ -1,0 +1,830 @@
+[
+  {
+    "categoryId": "MLB418326",
+    "categoryName": "Algemas Táticas"
+  },
+  {
+    "categoryId": "MLB432001",
+    "categoryName": "Almofadas de Viagem"
+  },
+  {
+    "categoryId": "MLB275584",
+    "categoryName": "Alpargata"
+  },
+  {
+    "categoryId": "MLB190433",
+    "categoryName": "Arcos, Tiaras e Faixas"
+  },
+  {
+    "categoryId": "MLB437909",
+    "categoryName": "Arcos, Tiaras e Faixas"
+  },
+  {
+    "categoryId": "MLB8379",
+    "categoryName": "Armações e Óculos Sem Grau"
+  },
+  {
+    "categoryId": "MLB49519",
+    "categoryName": "Babadores"
+  },
+  {
+    "categoryId": "MLB70092",
+    "categoryName": "Baby Doll"
+  },
+  {
+    "categoryId": "MLB271154",
+    "categoryName": "Balanças para Malas"
+  },
+  {
+    "categoryId": "MLB414385",
+    "categoryName": "Bandoleiras Táticas"
+  },
+  {
+    "categoryId": "MLB188064",
+    "categoryName": "Bermudas e Shorts"
+  },
+  {
+    "categoryId": "MLB3112",
+    "categoryName": "Blusas"
+  },
+  {
+    "categoryId": "MLB28208",
+    "categoryName": "Blusas"
+  },
+  {
+    "categoryId": "MLB438894",
+    "categoryName": "Blusas de Frio"
+  },
+  {
+    "categoryId": "MLB28139",
+    "categoryName": "Bodies"
+  },
+  {
+    "categoryId": "MLB195030",
+    "categoryName": "Body"
+  },
+  {
+    "categoryId": "MLB7022",
+    "categoryName": "Bolsas"
+  },
+  {
+    "categoryId": "MLB432407",
+    "categoryName": "Bolsas de Viagem"
+  },
+  {
+    "categoryId": "MLB432028",
+    "categoryName": "Bolsas Esportivas"
+  },
+  {
+    "categoryId": "MLB272198",
+    "categoryName": "Bolsas Táticas"
+  },
+  {
+    "categoryId": "MLB439241",
+    "categoryName": "Bonés"
+  },
+  {
+    "categoryId": "MLB49520",
+    "categoryName": "Bonés"
+  },
+  {
+    "categoryId": "MLB430275",
+    "categoryName": "Bonés, Chapéus e Boinas"
+  },
+  {
+    "categoryId": "MLB272202",
+    "categoryName": "Botas"
+  },
+  {
+    "categoryId": "MLB432851",
+    "categoryName": "Botas"
+  },
+  {
+    "categoryId": "MLB437677",
+    "categoryName": "Broches"
+  },
+  {
+    "categoryId": "MLB429406",
+    "categoryName": "Cachecois, Xales e Lenços"
+  },
+  {
+    "categoryId": "MLB437761",
+    "categoryName": "Cadeados para Maletas"
+  },
+  {
+    "categoryId": "MLB28158",
+    "categoryName": "Calçados"
+  },
+  {
+    "categoryId": "MLB188065",
+    "categoryName": "Calças"
+  },
+  {
+    "categoryId": "MLB417961",
+    "categoryName": "Calças de Trabalho"
+  },
+  {
+    "categoryId": "MLB28101",
+    "categoryName": "Calças e Culotes"
+  },
+  {
+    "categoryId": "MLB417370",
+    "categoryName": "Calças e Joggings"
+  },
+  {
+    "categoryId": "MLB432865",
+    "categoryName": "Calças Militares"
+  },
+  {
+    "categoryId": "MLB4954",
+    "categoryName": "Calcinhas"
+  },
+  {
+    "categoryId": "MLB107292",
+    "categoryName": "Camisas"
+  },
+  {
+    "categoryId": "MLB11428",
+    "categoryName": "Camisas"
+  },
+  {
+    "categoryId": "MLB417962",
+    "categoryName": "Camisas"
+  },
+  {
+    "categoryId": "MLB31447",
+    "categoryName": "Camisetas e Regatas"
+  },
+  {
+    "categoryId": "MLB270224",
+    "categoryName": "Camisetas e Regatas"
+  },
+  {
+    "categoryId": "MLB28135",
+    "categoryName": "Camisetas e Regatas"
+  },
+  {
+    "categoryId": "MLB414238",
+    "categoryName": "Camisetas e Regatas"
+  },
+  {
+    "categoryId": "MLB278114",
+    "categoryName": "Camisolas"
+  },
+  {
+    "categoryId": "MLB179799",
+    "categoryName": "Cangas de Praia"
+  },
+  {
+    "categoryId": "MLB119992",
+    "categoryName": "Capas e Estojos"
+  },
+  {
+    "categoryId": "MLB431541",
+    "categoryName": "Capas para Malas"
+  },
+  {
+    "categoryId": "MLB28108",
+    "categoryName": "Carteiras e Porta-Moedas"
+  },
+  {
+    "categoryId": "MLB28210",
+    "categoryName": "Casacos"
+  },
+  {
+    "categoryId": "MLB108803",
+    "categoryName": "Casacos e Jaquetas"
+  },
+  {
+    "categoryId": "MLB432864",
+    "categoryName": "Chapéus Táticos"
+  },
+  {
+    "categoryId": "MLB412060",
+    "categoryName": "Chaveiros"
+  },
+  {
+    "categoryId": "MLB437678",
+    "categoryName": "Cintas"
+  },
+  {
+    "categoryId": "MLB27533",
+    "categoryName": "Cintas"
+  },
+  {
+    "categoryId": "MLB433658",
+    "categoryName": "Cintas - Ligas"
+  },
+  {
+    "categoryId": "MLB190393",
+    "categoryName": "Cintos"
+  },
+  {
+    "categoryId": "MLB271874",
+    "categoryName": "Cintos Táticos"
+  },
+  {
+    "categoryId": "MLB414235",
+    "categoryName": "Coldres"
+  },
+  {
+    "categoryId": "MLB108805",
+    "categoryName": "Coletes"
+  },
+  {
+    "categoryId": "MLB270220",
+    "categoryName": "Conjuntos"
+  },
+  {
+    "categoryId": "MLB28163",
+    "categoryName": "Conjuntos"
+  },
+  {
+    "categoryId": "MLB4957",
+    "categoryName": "Conjuntos"
+  },
+  {
+    "categoryId": "MLB27254",
+    "categoryName": "Corset"
+  },
+  {
+    "categoryId": "MLB108789",
+    "categoryName": "Cuecas"
+  },
+  {
+    "categoryId": "MLB8378",
+    "categoryName": "De Sol"
+  },
+  {
+    "categoryId": "MLB277463",
+    "categoryName": "Elásticos de Cabelo"
+  },
+  {
+    "categoryId": "MLB437679",
+    "categoryName": "Espelhos"
+  },
+  {
+    "categoryId": "MLB190438",
+    "categoryName": "Estolas"
+  },
+  {
+    "categoryId": "MLB458017",
+    "categoryName": "Faixas"
+  },
+  {
+    "categoryId": "MLB454755",
+    "categoryName": "Filtros para Máscaras"
+  },
+  {
+    "categoryId": "MLB431538",
+    "categoryName": "Ganchos Portabolsas"
+  },
+  {
+    "categoryId": "MLB272124",
+    "categoryName": "Golas"
+  },
+  {
+    "categoryId": "MLB190430",
+    "categoryName": "Gravatas"
+  },
+  {
+    "categoryId": "MLB190972",
+    "categoryName": "Guarda-Chuvas"
+  },
+  {
+    "categoryId": "MLB272197",
+    "categoryName": "Identificadores para Malas"
+  },
+  {
+    "categoryId": "MLB277428",
+    "categoryName": "Jalecos Escolares"
+  },
+  {
+    "categoryId": "MLB270221",
+    "categoryName": "Jaquetas"
+  },
+  {
+    "categoryId": "MLB433707",
+    "categoryName": "Jaquetas de Trabalho"
+  },
+  {
+    "categoryId": "MLB432863",
+    "categoryName": "Jaquetas Táticas"
+  },
+  {
+    "categoryId": "MLB458006",
+    "categoryName": "Joelheiras Táticas"
+  },
+  {
+    "categoryId": "MLB455550",
+    "categoryName": "Kimonos"
+  },
+  {
+    "categoryId": "MLB455760",
+    "categoryName": "Kits de Bolsas"
+  },
+  {
+    "categoryId": "MLB271219",
+    "categoryName": "Kits de Conjuntos de Roupa"
+  },
+  {
+    "categoryId": "MLB455455",
+    "categoryName": "Kits de Mochilas Escolares"
+  },
+  {
+    "categoryId": "MLB433603",
+    "categoryName": "Kits Táticos"
+  },
+  {
+    "categoryId": "MLB412348",
+    "categoryName": "Lancheiras"
+  },
+  {
+    "categoryId": "MLB434342",
+    "categoryName": "Lanternas"
+  },
+  {
+    "categoryId": "MLB278018",
+    "categoryName": "Leggings"
+  },
+  {
+    "categoryId": "MLB270216",
+    "categoryName": "Leggings"
+  },
+  {
+    "categoryId": "MLB429301",
+    "categoryName": "Lenços de Quadril"
+  },
+  {
+    "categoryId": "MLB431345",
+    "categoryName": "Lentes de Reposição"
+  },
+  {
+    "categoryId": "MLB271107",
+    "categoryName": "Leques"
+  },
+  {
+    "categoryId": "MLB457786",
+    "categoryName": "Limpadores Ultrassônicos"
+  },
+  {
+    "categoryId": "MLB190437",
+    "categoryName": "Luvas"
+  },
+  {
+    "categoryId": "MLB417386",
+    "categoryName": "Luvas"
+  },
+  {
+    "categoryId": "MLB271881",
+    "categoryName": "Luvas Táticas"
+  },
+  {
+    "categoryId": "MLB27250",
+    "categoryName": "Macacão"
+  },
+  {
+    "categoryId": "MLB439265",
+    "categoryName": "Macacão"
+  },
+  {
+    "categoryId": "MLB28138",
+    "categoryName": "Macacões"
+  },
+  {
+    "categoryId": "MLB439166",
+    "categoryName": "Macacões"
+  },
+  {
+    "categoryId": "MLB3128",
+    "categoryName": "Malas"
+  },
+  {
+    "categoryId": "MLB430140",
+    "categoryName": "Mangas de Compressão"
+  },
+  {
+    "categoryId": "MLB457382",
+    "categoryName": "Máscara de Dormir Elétrica"
+  },
+  {
+    "categoryId": "MLB445787",
+    "categoryName": "Máscaras de Boca Reutilizáveis"
+  },
+  {
+    "categoryId": "MLB433272",
+    "categoryName": "Máscaras de Dormir"
+  },
+  {
+    "categoryId": "MLB437225",
+    "categoryName": "Máscaras de Dormir"
+  },
+  {
+    "categoryId": "MLB278108",
+    "categoryName": "Meia Calças"
+  },
+  {
+    "categoryId": "MLB270223",
+    "categoryName": "Meias"
+  },
+  {
+    "categoryId": "MLB278138",
+    "categoryName": "Meias"
+  },
+  {
+    "categoryId": "MLB439155",
+    "categoryName": "Meias"
+  },
+  {
+    "categoryId": "MLB108791",
+    "categoryName": "Meias"
+  },
+  {
+    "categoryId": "MLB440496",
+    "categoryName": "Meias de Trabalho"
+  },
+  {
+    "categoryId": "MLB3127",
+    "categoryName": "Mochilas"
+  },
+  {
+    "categoryId": "MLB457959",
+    "categoryName": "Mochilas Táticas"
+  },
+  {
+    "categoryId": "MLB430391",
+    "categoryName": "Moda Praia"
+  },
+  {
+    "categoryId": "MLB40577",
+    "categoryName": "Moda Praia"
+  },
+  {
+    "categoryId": "MLB108807",
+    "categoryName": "Moletons"
+  },
+  {
+    "categoryId": "MLB417369",
+    "categoryName": "Moletons"
+  },
+  {
+    "categoryId": "MLB28164",
+    "categoryName": "Moletons"
+  },
+  {
+    "categoryId": "MLB28155",
+    "categoryName": "Necéssaires"
+  },
+  {
+    "categoryId": "MLB459670",
+    "categoryName": "Óculos de Leitura"
+  },
+  {
+    "categoryId": "MLB432160",
+    "categoryName": "Ombreiras"
+  },
+  {
+    "categoryId": "MLB431550",
+    "categoryName": "Organizadores de Bolsas"
+  },
+  {
+    "categoryId": "MLB269582",
+    "categoryName": "Organizadores de Malas"
+  },
+  {
+    "categoryId": "MLB187055",
+    "categoryName": "Outras Lingerie"
+  },
+  {
+    "categoryId": "MLB108793",
+    "categoryName": "Outras Roupas Íntimas"
+  },
+  {
+    "categoryId": "MLB1911",
+    "categoryName": "Outros"
+  },
+  {
+    "categoryId": "MLB190440",
+    "categoryName": "Outros"
+  },
+  {
+    "categoryId": "MLB276629",
+    "categoryName": "Outros"
+  },
+  {
+    "categoryId": "MLB455529",
+    "categoryName": "Outros"
+  },
+  {
+    "categoryId": "MLB271864",
+    "categoryName": "Outros"
+  },
+  {
+    "categoryId": "MLB432013",
+    "categoryName": "Outros"
+  },
+  {
+    "categoryId": "MLB270230",
+    "categoryName": "Outros"
+  },
+  {
+    "categoryId": "MLB28140",
+    "categoryName": "Outros"
+  },
+  {
+    "categoryId": "MLB437216",
+    "categoryName": "Outros"
+  },
+  {
+    "categoryId": "MLB437218",
+    "categoryName": "Outros"
+  },
+  {
+    "categoryId": "MLB5529",
+    "categoryName": "Outros"
+  },
+  {
+    "categoryId": "MLB438904",
+    "categoryName": "Outros"
+  },
+  {
+    "categoryId": "MLB455531",
+    "categoryName": "Outros"
+  },
+  {
+    "categoryId": "MLB271877",
+    "categoryName": "Outros"
+  },
+  {
+    "categoryId": "MLB417959",
+    "categoryName": "Outros"
+  },
+  {
+    "categoryId": "MLB432020",
+    "categoryName": "Outros"
+  },
+  {
+    "categoryId": "MLB432021",
+    "categoryName": "Outros"
+  },
+  {
+    "categoryId": "MLB438916",
+    "categoryName": "Outros"
+  },
+  {
+    "categoryId": "MLB278116",
+    "categoryName": "Outros"
+  },
+  {
+    "categoryId": "MLB420394",
+    "categoryName": "Outros"
+  },
+  {
+    "categoryId": "MLB432026",
+    "categoryName": "Outros"
+  },
+  {
+    "categoryId": "MLB439086",
+    "categoryName": "Outros"
+  },
+  {
+    "categoryId": "MLB417672",
+    "categoryName": "Outros"
+  },
+  {
+    "categoryId": "MLB276628",
+    "categoryName": "Pantufas"
+  },
+  {
+    "categoryId": "MLB437226",
+    "categoryName": "Pantufas"
+  },
+  {
+    "categoryId": "MLB28144",
+    "categoryName": "Pastas Executivas"
+  },
+  {
+    "categoryId": "MLB113662",
+    "categoryName": "Pijamas"
+  },
+  {
+    "categoryId": "MLB278112",
+    "categoryName": "Pijamas"
+  },
+  {
+    "categoryId": "MLB418199",
+    "categoryName": "Pijamas Cirúrgicos"
+  },
+  {
+    "categoryId": "MLB28143",
+    "categoryName": "Pochetes"
+  },
+  {
+    "categoryId": "MLB432862",
+    "categoryName": "Pochetes Taticos"
+  },
+  {
+    "categoryId": "MLB270547",
+    "categoryName": "Polainas"
+  },
+  {
+    "categoryId": "MLB196932",
+    "categoryName": "Ponchos"
+  },
+  {
+    "categoryId": "MLB439167",
+    "categoryName": "Ponteiras"
+  },
+  {
+    "categoryId": "MLB432962",
+    "categoryName": "Porta Algemas"
+  },
+  {
+    "categoryId": "MLB414244",
+    "categoryName": "Porta Carregador"
+  },
+  {
+    "categoryId": "MLB431348",
+    "categoryName": "Porta Documentos"
+  },
+  {
+    "categoryId": "MLB433007",
+    "categoryName": "Porta Lanternas"
+  },
+  {
+    "categoryId": "MLB433008",
+    "categoryName": "Porta Tonfas"
+  },
+  {
+    "categoryId": "MLB190971",
+    "categoryName": "Prendedores de Gravata"
+  },
+  {
+    "categoryId": "MLB432638",
+    "categoryName": "Presilhas"
+  },
+  {
+    "categoryId": "MLB455893",
+    "categoryName": "Protetor de Sapatos"
+  },
+  {
+    "categoryId": "MLB417481",
+    "categoryName": "Protetores de Metatarso"
+  },
+  {
+    "categoryId": "MLB271846",
+    "categoryName": "Protetores de Orelhas"
+  },
+  {
+    "categoryId": "MLB414611",
+    "categoryName": "Remendos e Escudos"
+  },
+  {
+    "categoryId": "MLB437910",
+    "categoryName": "Roupões"
+  },
+  {
+    "categoryId": "MLB278113",
+    "categoryName": "Roupões"
+  },
+  {
+    "categoryId": "MLB458052",
+    "categoryName": "Sacos de Dormir"
+  },
+  {
+    "categoryId": "MLB185489",
+    "categoryName": "Saias"
+  },
+  {
+    "categoryId": "MLB278068",
+    "categoryName": "Saias"
+  },
+  {
+    "categoryId": "MLB439153",
+    "categoryName": "Saias"
+  },
+  {
+    "categoryId": "MLB419537",
+    "categoryName": "Saias Tutus"
+  },
+  {
+    "categoryId": "MLB434729",
+    "categoryName": "Saídas Maternidade"
+  },
+  {
+    "categoryId": "MLB273770",
+    "categoryName": "Sandálias e Chinelos"
+  },
+  {
+    "categoryId": "MLB275574",
+    "categoryName": "Sapatilhas"
+  },
+  {
+    "categoryId": "MLB432529",
+    "categoryName": "Sapatilhas de Ballet"
+  },
+  {
+    "categoryId": "MLB439156",
+    "categoryName": "Sapatilhas de Ponta"
+  },
+  {
+    "categoryId": "MLB432718",
+    "categoryName": "Sapatos de Dança Tap"
+  },
+  {
+    "categoryId": "MLB274752",
+    "categoryName": "Sapatos Sociais e Mocassims"
+  },
+  {
+    "categoryId": "MLB275575",
+    "categoryName": "Scarpins e Plataformas"
+  },
+  {
+    "categoryId": "MLB278067",
+    "categoryName": "Shorts"
+  },
+  {
+    "categoryId": "MLB270227",
+    "categoryName": "Shorts e Bermudas"
+  },
+  {
+    "categoryId": "MLB278158",
+    "categoryName": "Suéteres"
+  },
+  {
+    "categoryId": "MLB278010",
+    "categoryName": "Suéteres e Cardigans"
+  },
+  {
+    "categoryId": "MLB190436",
+    "categoryName": "Suspensórios"
+  },
+  {
+    "categoryId": "MLB4964",
+    "categoryName": "Sutiãs"
+  },
+  {
+    "categoryId": "MLB23332",
+    "categoryName": "Tênis"
+  },
+  {
+    "categoryId": "MLB433059",
+    "categoryName": "Tênis de Dança"
+  },
+  {
+    "categoryId": "MLB108831",
+    "categoryName": "Ternos"
+  },
+  {
+    "categoryId": "MLB446854",
+    "categoryName": "Toalhas de Praia"
+  },
+  {
+    "categoryId": "MLB270229",
+    "categoryName": "Tops de Fitness"
+  },
+  {
+    "categoryId": "MLB417387",
+    "categoryName": "Tornozeleiras"
+  },
+  {
+    "categoryId": "MLB271863",
+    "categoryName": "Trabalho Doméstico"
+  },
+  {
+    "categoryId": "MLB433430",
+    "categoryName": "Trajes para Dança"
+  },
+  {
+    "categoryId": "MLB429508",
+    "categoryName": "Turbantes"
+  },
+  {
+    "categoryId": "MLB431556",
+    "categoryName": "Uniformes de Bombeiros"
+  },
+  {
+    "categoryId": "MLB431555",
+    "categoryName": "Uniformes de Chef"
+  },
+  {
+    "categoryId": "MLB12554",
+    "categoryName": "Uniformes Escolares"
+  },
+  {
+    "categoryId": "MLB108704",
+    "categoryName": "Vestidos"
+  },
+  {
+    "categoryId": "MLB421969",
+    "categoryName": "Vestidos"
+  },
+  {
+    "categoryId": "MLB28174",
+    "categoryName": "Vestidos"
+  },
+  {
+    "categoryId": "MLB190439",
+    "categoryName": "Véus"
+  }
+]
